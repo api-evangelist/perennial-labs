@@ -1,0 +1,51 @@
+# Perennial
+
+## Perennial
+
+- [Introduction to Perennial](https://docs.perennial.finance/introduction-to-perennial.md)
+- [Perennial Petals](https://docs.perennial.finance/perennial-petals.md)
+- [Trading Competition - Flight School](https://docs.perennial.finance/perennial-petals/trading-competition-flight-school.md)
+- [Rebates and Rewards](https://docs.perennial.finance/referrals.md)
+- [Mainnet](https://docs.perennial.finance/perennial-chain/mainnet.md)
+- [Testnet](https://docs.perennial.finance/perennial-chain/testnet.md)
+- [Bridging to Perennial](https://docs.perennial.finance/guides/bridging-to-perennial.md)
+- [Create an Account](https://docs.perennial.finance/guides/create-an-account.md)
+- [Place a limit order](https://docs.perennial.finance/guides/place-a-limit-order.md)
+- [Bridging from Perennial](https://docs.perennial.finance/guides/bridging-from-perennial.md)
+- [Markets](https://docs.perennial.finance/protocol/markets.md): Introduction to Markets
+- [Market Design](https://docs.perennial.finance/protocol/markets/market-design.md)
+- [Oracles & Settlement](https://docs.perennial.finance/protocol/markets/oracles-and-settlement.md)
+- [Payoff & Positions](https://docs.perennial.finance/protocol/markets/payoff-and-positions.md)
+- [Price Impact & Trading Fees](https://docs.perennial.finance/protocol/markets/price-impact-and-trading-fees.md)
+- [Funding & Interest Rate](https://docs.perennial.finance/protocol/markets/funding-and-interest-rate.md)
+- [Margin & Liquidations](https://docs.perennial.finance/protocol/markets/margin-and-liquidations.md)
+- [Liquidity Provisioning](https://docs.perennial.finance/protocol/markets/liquidity-provisioning.md): On Perennial LPs can provide liquidity with up to 50x leverage.
+- [Advanced Order Types](https://docs.perennial.finance/protocol/markets/advanced-order-types.md): Learn about the different type of limit order on Perennial.
+- [Collateral](https://docs.perennial.finance/protocol/markets/collateral.md)
+- [Intents](https://docs.perennial.finance/protocol/intents.md)
+- [Mechanism](https://docs.perennial.finance/protocol/intents/mechanism.md)
+- [Offchain Infrastructure](https://docs.perennial.finance/protocol/intents/offchain-infrastructure.md)
+- [Intent Solvers (Makers)](https://docs.perennial.finance/protocol/intents/intent-solvers-makers.md)
+- [Specification](https://docs.perennial.finance/protocol/intents/specification.md)
+- [Collateral Accounts](https://docs.perennial.finance/protocol/collateral-accounts.md)
+- [Vaults](https://docs.perennial.finance/protocol/vaults.md)
+- [Codebase](https://docs.perennial.finance/protocol/codebase.md)
+- [Protocol Risks](https://docs.perennial.finance/protocol/protocol-risks.md)
+- [Why Perennial?](https://docs.perennial.finance/building-on-perennial/why-perennial.md)
+- [Before Integrating](https://docs.perennial.finance/building-on-perennial/before-integrating.md)
+- [Frontend & Client Integrations](https://docs.perennial.finance/building-on-perennial/frontend-and-client-integrations.md)
+- [Smart Contract Integrations](https://docs.perennial.finance/building-on-perennial/smart-contract-integrations.md)
+- [Offchain Infrastructure](https://docs.perennial.finance/building-on-perennial/offchain-infrastructure.md)
+- [Guides](https://docs.perennial.finance/building-on-perennial/guides.md)
+- [Creating a New Market](https://docs.perennial.finance/building-on-perennial/guides/creating-a-new-market.md)
+- [Subscribe to Market Updates](https://docs.perennial.finance/building-on-perennial/guides/subscribe-to-market-updates.md)
+- [Perennial](https://docs.perennial.finance/frequently-asked-questions/perennial.md)
+- [Trading](https://docs.perennial.finance/frequently-asked-questions/trading.md)
+- [Markets](https://docs.perennial.finance/frequently-asked-questions/markets.md)
+- [Fees](https://docs.perennial.finance/frequently-asked-questions/fees.md)
+- [Markets & Vaults](https://docs.perennial.finance/protocol-info/markets-and-vaults.md): List of markets, oracles & vaults governed by the Perennial Protocol
+- [Protocol Contracts](https://docs.perennial.finance/protocol-info/protocol-contracts.md): List of deployed contracts & their addresses that make up the Protocol
+- [Audits & Bug Bounty](https://docs.perennial.finance/security/audits-and-bug-bounty.md)
+- [Introduction](https://docs.perennial.finance/perp.fun/introduction.md)
+- [Installing Perp.fun](https://docs.perennial.finance/perp.fun/installing-perp.fun.md): Add perp.fun to Your Phone’s Home Screen
+- [Autopilot](https://docs.perennial.finance/perp.fun/autopilot.md)

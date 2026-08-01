@@ -1,0 +1,23 @@
+generated: '2026-07-20'
+method: searched
+source: https://perennial.finance / https://docs.perennial.finance
+versioning:
+  scheme: contract-version
+  history: [v1 (perennial-mono, archived), v2.0, v2.1, v2.2]
+  current: v2.2
+  docs: https://docs.perennial.finance/protocol/codebase.md
+status:
+  application: sunset
+  detail: >
+    The Perennial hosted frontend application (perennial.finance) has been sunset
+    and taken offline; created by Equilibria. Users with unwithdrawn funds are
+    directed to https://claim.equilibria.xyz. The on-chain protocol contracts,
+    documentation (docs.perennial.finance), audits, and client SDKs remain
+    published, but the first-party app is no longer operational.
+  claim_funds: https://claim.equilibria.xyz
+status_page: null
+deprecation:
+  policy_url: null
+  sunset_header: false
+sla:
+  url: null

@@ -1,0 +1,26 @@
+generated: '2026-07-20'
+method: searched
+source: https://registry.npmjs.org / https://pypi.org / https://github.com/equilibria-xyz
+packages:
+  - language: javascript
+    registry: npm
+    name: "@perennial/sdk"
+    version: 0.0.4-alpha.12
+    url: https://www.npmjs.com/package/@perennial/sdk
+    install: npm install @perennial/sdk
+    source_code: https://github.com/equilibria-xyz/perennial-v2-sdk-ts
+    description: The most fully-featured TypeScript SDK for reading and writing Perennial V2 markets; used across most client integrations.
+    official: true
+  - language: python
+    registry: pypi
+    name: perennial-sdk
+    version: 0.1.7
+    url: https://pypi.org/project/perennial-sdk/
+    install: pip install perennial-sdk
+    source_code: https://github.com/equilibria-xyz/perennial-v2-sdk-py
+    description: A Python SDK to interact with the Perennial derivatives protocol; aimed at makers and algorithmic traders.
+    official: true
+notes: >
+  Perennial is an on-chain (EVM) perpetual-derivatives protocol; its programmable
+  surface is Solidity smart contracts plus these client SDKs and a subgraph, not a
+  hosted REST API. Both SDKs are first-party (equilibria-xyz GitHub org).
